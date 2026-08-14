@@ -18,13 +18,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.yourcompany.yourapp</string>
+                <string>com.baoxiao.rr</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>10002</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>My App Name</string>
+                <string>报销OA</string>
             </dict>
         </dict>
     </array>
